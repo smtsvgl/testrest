@@ -41,7 +41,7 @@ class HomePage extends StatelessWidget {
                     child: Padding(
                       padding: const EdgeInsets.all(8.0),
                       child: Icon(
-                        Icons.menu,
+                        Icons.menu_book,
                         color: ProjectColor().darkColor,
                         size: 20,
                       ),
